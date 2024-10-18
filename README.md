@@ -39,3 +39,5 @@ To get started with the Course Management System, follow these steps:
 1. **Clone the repository:**
 
    git clone <https://github.com/yourusername/online_learning_platform.git>
+
+2. Live URL : https://online-learning-platform-4u8s.onrender.com
