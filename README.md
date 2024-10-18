@@ -34,9 +34,7 @@ An Online Learning Platform is a web application designed to facilitate user enr
 
 To get started with the Course Management System, follow these steps:
 
-## Start the server
-
-npm start
+## Start the server : npm start
 
 1. **Clone the repository:**
 
